@@ -4,7 +4,7 @@
 
 #### Contacts:
 
-- **Tel.** : +90 (507) 933 21 58
+- **Tel.** : +90 (507) 933 21 50
 - **E-mail**: [ubazrov199660@gmail.com](mailto:ubazrov199660@gmail.com)
 - **Discord**: ulyana#5956
 - **GitHub**: [Ulyana Bazrova](https://github.com/Ulyana-dev)
@@ -17,7 +17,7 @@ I am a beginner frontend developer. My goal is to gain new knowledge, develop an
 
 #### Skills:
 
-- HTML5, CSS3
+- HTML5, CSS3/Saas
 - JavaScript Basics (in process)
 - Git, GitHub
 - VS Code
